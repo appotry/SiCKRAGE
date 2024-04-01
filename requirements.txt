@@ -60,7 +60,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 PyJWT==1.7.1
 pymediainfo==4.2.1
-PyMySQL==0.10.0
+PyMySQL==0.10.1
 pynzb==0.1.0
 pyparsing==2.4.7
 pysrt==1.1.2
