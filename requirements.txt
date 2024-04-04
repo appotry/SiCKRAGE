@@ -26,7 +26,7 @@ dirsync==2.2.5
 dogpile.cache==1.0.2
 ecdsa==0.14.1
 enzyme==0.4.1
-fake-useragent==0.1.11
+fake-useragent==0.1.14
 feedparser==6.0.2
 future==0.18.2
 gntp==1.0.3
